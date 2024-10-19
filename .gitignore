@@ -1,1 +1,7 @@
 /venv/
+/MotorockBackEnd/*.csv
+/__pycache__/
+/MotorockBackEnd/__pycache__/
+/*/__pycache__/
+/*/*/__pycache__/
+/*/files/
